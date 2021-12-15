@@ -1,7 +1,0 @@
-https://www.kaggle.com/kazanova/sentiment140/download
-
-
-This is the dataset link.
-
-
-This dataset is too large and it takes eternity to compile, so i preferred small examples to make sure that our function is working.
